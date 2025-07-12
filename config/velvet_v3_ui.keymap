@@ -26,10 +26,10 @@
 
         Base_win {
             bindings = <
-&kp ESC    &kp Q  &kp W     &kp E     &kp R      &kp T                        &kp Y  &kp U           &kp I      &kp O     &kp P     &kp BSPC
-&kp TAB    &kp A  &kp S     &kp D     &kp F      &kp G                        &kp H  &kp J           &kp K      &kp L     &kp SEMI  &kp SQT
-&kp LSHFT  &kp Z  &kp X     &kp C     &kp V      &kp B                        &kp N  &kp M           &kp COMMA  &kp DOT   &kp BSLH  &kp RSHFT
-                  &kp LGUI  &kp LALT  &kp LCTRL  &mo 2  &kp SPACE    &kp RET  &mo 3  &cap_sen 5 MB1  &kp LBKT   &kp RBKT
+&kp ESC    &kp Q  &kp W     &kp E     &kp R      &kp T                        &kp Y  &kp U  &kp I      &kp O     &kp P     &kp BSPC
+&kp TAB    &kp A  &kp S     &kp D     &kp F      &kp G                        &kp H  &kp J  &kp K      &kp L     &kp SEMI  &kp SQT
+&kp LSHFT  &kp Z  &kp X     &kp C     &kp V      &kp B                        &kp N  &kp M  &kp COMMA  &kp DOT   &kp BSLH  &kp RSHFT
+                  &kp LGUI  &kp LALT  &kp LCTRL  &mo 2  &kp SPACE    &kp RET  &mo 3  &mo 5  &kp LBKT   &kp RBKT
             >;
 
             display-name = " base win";
@@ -38,10 +38,10 @@
         Base_mac {
             display-name = " base mac";
             bindings = <
-&kp ESC    &kp Q  &kp W      &kp E     &kp R     &kp T                        &kp Y  &kp U           &kp I      &kp O     &kp P     &kp BSPC
-&kp TAB    &kp A  &kp S      &kp D     &kp F     &kp G                        &kp H  &kp J           &kp K      &kp L     &kp SEMI  &kp SQT
-&kp LSHFT  &kp Z  &kp X      &kp C     &kp V     &kp B                        &kp N  &kp M           &kp COMMA  &kp DOT   &kp BSLH  &kp RSHFT
-                  &kp LCTRL  &kp LALT  &kp LGUI  &mo 2  &kp SPACE    &kp RET  &mo 3  &cap_sen 5 MB1  &kp LBKT   &kp RBKT
+&kp ESC    &kp Q  &kp W      &kp E     &kp R     &kp T                        &kp Y  &kp U  &kp I      &kp O     &kp P     &kp BSPC
+&kp TAB    &kp A  &kp S      &kp D     &kp F     &kp G                        &kp H  &kp J  &kp K      &kp L     &kp SEMI  &kp SQT
+&kp LSHFT  &kp Z  &kp X      &kp C     &kp V     &kp B                        &kp N  &kp M  &kp COMMA  &kp DOT   &kp BSLH  &kp RSHFT
+                  &kp LCTRL  &kp LALT  &kp LGUI  &mo 2  &kp SPACE    &kp RET  &mo 3  &mo 5  &kp LBKT   &kp RBKT
             >;
         };
 
